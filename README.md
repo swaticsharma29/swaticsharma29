@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=dataenthusiast092&show_icons=true&theme=radical&line_height=33">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dataenthusiast092&hide_langs_below=.25&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api?username=swaticsharma29&show_icons=true&theme=radical&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=swaticsharma29&hide_langs_below=.25&theme=radical">
 </p>
 
 - 👩🏻‍💻 My most handy programming language is Python.
