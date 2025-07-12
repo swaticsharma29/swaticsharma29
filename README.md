@@ -20,12 +20,15 @@ Here are some ideas to get you started:
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=swaticsharma29&hide_langs_below=.25&theme=radical">
 </p>
 
-- 👩🏻‍💻 My most handy programming language is Python.
-- 📖 I'm currently learning JDK17+ versions.
-- 📺 I'm currently watching JavaOne 2025 on youtube.
-- 🤔 I’m looking for help with the JEP for openjdk project.
-- 💬 Ask me about Python, Java, SQL and Machine Learning.
-- 👯 I’m looking to co-learn Mathematics and C++.
+- ⚡ My most handy programming language is Python.
+- ⚡ I'm currently learning JDK17+ versions.
+- ⚡ I'm currently watching JavaOne 2025 on youtube.
+- ⚡ I’m looking for help with the JEP for openjdk project.
+- ⚡ Ask me about Python, Java, SQL and Machine Learning.
+- ⚡ I’m looking to co-learn Mathematics and C++.
+- ⚡ The most beginner-friendly platforms I like is W3Schools.
+- ⚡ Data is fun at leetcode.
+- ⚡ The best way to learn is from other's good work. Keep following them.
 - ⚡ Fun fact: I know the reverse pronunciation to my name.
 
 
