@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 - ⚡ My most handy programming language is Python.
-- ⚡ The most beginner-friendly platforms I like is W3Schools.
 - ⚡ Leetcode is fun.
-- ⚡ I'm currently learning JDK17+ versions.
 - ⚡ I'm currently watching JavaOne 2025 on youtube.
 - ⚡ I’m looking for help with the JEP for openjdk project.
 - ⚡ Ask me about Python, Java, SQL and Machine Learning.
