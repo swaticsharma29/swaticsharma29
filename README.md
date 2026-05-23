@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 - ⚡ My most handy programming language is Python.
 - ⚡ Leetcode is fun.
-- ⚡ I'm currently watching JavaOne 2025 on youtube.
-- ⚡ I’m looking for help with the JEP for openjdk project.
 - ⚡ Ask me about Python, Java, SQL and Machine Learning.
 - ⚡ I’m looking to co-learn Mathematics and C++.
 - ⚡ The best way to learn is from other's good work. Keep following them.
